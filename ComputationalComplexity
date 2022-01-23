@@ -1,0 +1,13 @@
+Computational Complexity
+
+What is it?
+The classification of computations according to resource usage. A computation problem is solved by an algorithm applying math and logic step by step. 
+Each algorithm uses an amount of the following resources: time, storage, communication, circuit gates, and processor cycles. 
+The resource usage is compared relative to other classifications to determine the computational complexity of a given problem. 
+From some Stanford blog entry, “… in computational complexity theory a problem XX is considered to be complex in proportion to the difficulty of carrying 
+out the most efficient algorithm by which it may be decided.”
+
+Why is it important?
+Computational complexity is vital to algorithm design and the process of determining which algorithm to use to solve a computation problem. 
+For example, an algorithm sorts 100 items alphabetically in 1 second may not be practical with sorting 1 million items alphabetically. 
+Considering computational complexity helps us choose and design efficient algorithms.
