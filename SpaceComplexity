@@ -1,0 +1,8 @@
+Space Complexity
+
+What is it? Space complexity is the amount of memory space an algorithm uses to execute completely. 
+The memory an algorithm uses to solve a problem includes variables, program instructions, and execution. 
+These memory types are categorized in Auxiliary Space and Input Space.
+
+Why is it important? Space complexity is important because any organization has a limited amount of resources. 
+The memory any algorithm uses to solve a problem, and the time it spends using that memory, must be considered when designing or choosing an algorithm.
