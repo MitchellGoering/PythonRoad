@@ -1,0 +1,8 @@
+ Time Complexity
+
+What is it? Time complexity is the amount of time an algorithm takes to fully execute, measured by the time it takes to run each statement of code. 
+
+Why is it important? The time it takes an algorithm to solve a problem is must be considered when designing or choosing an algorithm, 
+because there may be no benefit to using an algorithm that takes longer than another. 
+Time complexity is often weighted higher than space complexity when considering the efficiency of a given algorithm. 
+The goal is to use the most efficient algorithm in respect to cost, and time is generally more expensive than space.
